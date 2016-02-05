@@ -8,7 +8,7 @@
 #### Setup
     npm install opensubtitles-js
 
-#### Initialize
+#### Search Episodes
 ```js
 var opensubtitles = require('opensubtitles-js');
 
