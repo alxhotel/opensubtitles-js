@@ -1,7 +1,7 @@
 # opensubtitles-js
-<img src="http://static.opensubtitles.org/gfx/logo_64x64.gif" width="64" height="64" />
+**[Opensubtitles.org](http://opensubtitles.org) API wrapper for Node.js**
 
-**Opensubtitles.org API wrapper for Node.js**
+<img src="http://static.opensubtitles.org/gfx/logo.gif" />
 
 ## Example usage
 
