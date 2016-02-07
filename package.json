@@ -1,0 +1,27 @@
+{
+  "name": "opensubtitles-js",
+  "version": "1.0.0",
+  "description": "An Opensubtitles API wrapper for Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alxhotel/opensubtitles-js.git"
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "lodash": "^4.2.1",
+    "xmlrpc": "^1.3.1"
+  },
+  "keywords": [
+    "opensubtitles.org",
+    "opensubtitles",
+    "org",
+    "api",
+    "wrapper"
+  ],
+  "bugs": {
+    "url": "https://github.com/alxhotel/opensubtitles-js/issues"
+  },
+  "author": "Alxhotel <alxmorais8@msn.com>",
+  "license": "MIT"
+}
