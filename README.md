@@ -13,7 +13,7 @@
 var Opensubtitles = require('opensubtitles-js');
 
 var subs = new Opensubtitles({
-    user: 'username'
+    user: 'username',
     password: 'password',
     language: 'en',
     userAgent: 'OSTestUserAgent'
