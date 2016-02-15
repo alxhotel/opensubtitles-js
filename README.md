@@ -110,4 +110,8 @@ Object {
 
 ### License
 
-MIT. Copyright (c) [alxhotel](http://github.com/alxhotel).
+This code is a fork from [here](https://github.com/vankasteelj/opensubtitles-api) done by [vankasteelj](https://github.com/vankasteelj)
+
+So, this code is registered under GPLv3
+
+Author of this fork is [alxhotel](http://github.com/alxhotel).
