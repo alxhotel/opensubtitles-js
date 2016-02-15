@@ -1,6 +1,6 @@
 {
   "name": "opensubtitles-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Opensubtitles API wrapper for Node.js",
   "main": "index.js",
   "repository": {
@@ -23,5 +23,5 @@
     "url": "https://github.com/alxhotel/opensubtitles-js/issues"
   },
   "author": "Alxhotel <alxmorais8@msn.com>",
-  "license": "MIT"
+  "license": "GPL-3.0"
 }
