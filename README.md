@@ -1,4 +1,7 @@
 # opensubtitles-js
+
+[![Travis Build](https://travis-ci.org/alxhotel/opensubtitles-js.svg?branch=master)](https://travis-ci.org/alxhotel/opensubtitles-js)
+
 **[Opensubtitles.org](http://opensubtitles.org) API wrapper for Node.js**
 
 <img src="http://static.opensubtitles.org/gfx/logo.gif" />
