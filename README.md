@@ -1,5 +1,6 @@
 # opensubtitles-js
 
+[![NPM Version](https://img.shields.io/npm/v/opensubtitles-js.svg)](https://npmjs.com/package/opensubtitles-js)
 [![Travis Build](https://travis-ci.org/alxhotel/opensubtitles-js.svg?branch=master)](https://travis-ci.org/alxhotel/opensubtitles-js)
 
 **[Opensubtitles.org](http://opensubtitles.org) API wrapper for Node.js**
@@ -113,8 +114,8 @@ Object {
 
 ### License
 
-This code is a fork from [here](https://github.com/vankasteelj/opensubtitles-api) done by [vankasteelj](https://github.com/vankasteelj)
+This code is based on [opensubtitles-api](https://github.com/vankasteelj/opensubtitles-api) done by [@vankasteelj](https://github.com/vankasteelj)
 
 So, this code is registered under GPLv3
 
-Author of this fork is [alxhotel](http://github.com/alxhotel).
+Author of this fork is [@alxhotel](http://github.com/alxhotel).
