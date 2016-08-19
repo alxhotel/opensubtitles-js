@@ -112,7 +112,7 @@ Object {
 - AutoUpdate(programName)
 - NoOperation(token)
 
-### License
+## License
 
 This code is based on [opensubtitles-api](https://github.com/vankasteelj/opensubtitles-api) done by [@vankasteelj](https://github.com/vankasteelj)
 
