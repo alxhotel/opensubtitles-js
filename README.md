@@ -1,5 +1,7 @@
 # opensubtitles-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alxhotel/opensubtitles-js.svg)](https://greenkeeper.io/)
+
 [![NPM Version](https://img.shields.io/npm/v/opensubtitles-js.svg)](https://npmjs.com/package/opensubtitles-js)
 [![Travis Build](https://travis-ci.org/alxhotel/opensubtitles-js.svg?branch=master)](https://travis-ci.org/alxhotel/opensubtitles-js)
 
