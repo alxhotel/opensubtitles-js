@@ -1,7 +1,7 @@
 # opensubtitles-js
 
 [![NPM Version](https://img.shields.io/npm/v/opensubtitles-js.svg)](https://npmjs.com/package/opensubtitles-js)
-[![Travis Build](https://travis-ci.org/alxhotel/opensubtitles-js.svg?branch=master)](https://travis-ci.org/alxhotel/opensubtitles-js)
+[![Travis Build](https://img.shields.io/travis/com/alxhotel/opensubtitles-js/master.svg)](https://travis-ci.com/alxhotel/opensubtitles-js)
 
 **[Opensubtitles.org](http://opensubtitles.org) API wrapper for Node.js**
 
