@@ -1,7 +1,8 @@
 # opensubtitles-js
 
 [![NPM Version](https://img.shields.io/npm/v/opensubtitles-js.svg)](https://npmjs.com/package/opensubtitles-js)
-[![Travis Build](https://img.shields.io/travis/com/alxhotel/opensubtitles-js/master.svg)](https://travis-ci.com/alxhotel/opensubtitles-js)
+[![Build Status](https://img.shields.io/travis/com/alxhotel/opensubtitles-js/master.svg)](https://travis-ci.com/alxhotel/opensubtitles-js)
+[![Dependency Status](https://david-dm.org/alxhotel/opensubtitles-js/status.svg)](https://david-dm.org/alxhotel/opensubtitles-js)
 
 **[Opensubtitles.org](http://opensubtitles.org) API wrapper for Node.js**
 
